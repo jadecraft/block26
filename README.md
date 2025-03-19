@@ -1,5 +1,4 @@
-[
-](https://darling-macaron-cc3916.netlify.app/)
+(https://darling-macaron-cc3916.netlify.app/)
 
 # React + Vite
 
